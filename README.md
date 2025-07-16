@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sudeep</h1><h1 align="center">Hi 👋, I'm Sudeep</h1>
+<h1 align="center">Hi 👋, I'm Sudeep</h1>
 <h3 align="center">A passionate Rom development learner</h3>
 
-- 👨‍💻 All of my projects are available at [https://t.me/PAD6Repo](https://t.me/PAD6Repo)
+- 
 
 - ⚡ Fun fact **I m noob**
 
@@ -11,6 +11,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/d4rk_911) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudeepyadav7272@gmail.com) 
+All of my projects are available at [https://t.me/PAD6Repo](https://t.me/PAD6Repo)
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
