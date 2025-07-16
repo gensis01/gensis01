@@ -1,6 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sudeep</h1>
-# 💫 About Me:
-🌐 Learning Custom rom development <br>🖌️12 th student <br>🛠️Always learning new things
+<h1 align="center">Hi 👋, I'm Sudeep</h1><h1 align="center">Hi 👋, I'm Sudeep</h1>
+<h3 align="center">A passionate Rom development learner</h3>
+
+- 👨‍💻 All of my projects are available at [https://t.me/PAD6Repo](https://t.me/PAD6Repo)
+
+- ⚡ Fun fact **I m noob**
+
+
 <img align="right" width="400" alt="rom building" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
