@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sudeep</h1>
 <h3 align="center">A passionate Rom development learner</h3>
 
-- 
-
 - ⚡ Fun fact **I m noob**
 
 
