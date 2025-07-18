@@ -26,6 +26,7 @@ All of my projects are available at [https://t.me/PAD6Repo](https://t.me/PAD6Rep
 ---
 [![](https://visitcount.itsvg.in/api?id=gensis01&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<img align="centre" width="500" alt="skull" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fuserupload%2F23231536%2Ffile%2Foriginal-96bcc80d639eebc71eb8752d1491565e.gif&tbnid=8W0sd_AU05r_lM&vet=1&imgrefurl=https%3A%2F%2Fdribbble.com%2Fshots%2F4809312-Halftone-Skull&docid=E46nMyTZut0ruM&w=800&h=600&itg=1&hl=en-US&source=sh%2Fx%2Fim%2Fm6%2F4&kgs=8342ecffd2bace3b">
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Mufasa01) 
 
