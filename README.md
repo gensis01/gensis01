@@ -7,9 +7,9 @@
 <div align="center">
   
   ### My stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Ghosuto&count_private=true&theme=blue-green&hide_border=true&border_radius=10&showicons=true)]()
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ghosuto&theme=blue-green&hide_border=true&border_radius=10&showicons=true)
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghosuto&langs_count=4&theme=blue-green&hide_border=true&border_radius=10)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=gensis01&count_private=true&theme=blue-green&hide_border=true&border_radius=10&showicons=true)]()
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gensis01&theme=blue-green&hide_border=true&border_radius=10&showicons=true)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gensis01&langs_count=4&theme=blue-green&hide_border=true&border_radius=10)]()
   
 </div>
 
