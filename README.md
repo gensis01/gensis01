@@ -4,9 +4,9 @@
 
 ### About me
 ```diff
-+ Navigating the bleeding edge where hardware meets code
-! Building digital experiences that breathe through silicon
-+ Transforming raw code into living interfaces
++ NAME : Sudeep (SCARFACEE_01)
+! I am a 12th student preparing for IIT-JEE
++ I do everything except studying.
 ```
 
 ---
