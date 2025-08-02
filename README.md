@@ -22,7 +22,9 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Musafir02/Musafir02/output/snake.svg" alt="Snake animation" />
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ###
 
 ![:name](https://count.getloli.com/@:gensis01)<!--
