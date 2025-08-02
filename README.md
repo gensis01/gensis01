@@ -3,9 +3,13 @@
 ### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" height="20px"> I am Scarface | ゴースト
 
 ### About me
-- Name - Sudeep
-- I am a student
-- I don't mind PMs, so feel free to pm me on any of the platforms below
+```diff
++ Navigating the bleeding edge where hardware meets code
+! Building digital experiences that breathe through silicon
++ Transforming raw code into living interfaces
+```
+
+---
 
 ###
 
