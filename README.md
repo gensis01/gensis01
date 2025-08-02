@@ -1,6 +1,11 @@
+![Ghost | ゴースト](https://i.imgur.com/HvPHaNm.jpg)
+---
+### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" height="20px"> I am Ghost | ゴースト
 
-
-<h2 align="left">Hi 👋! My name is Sudeep and I'm from India </h2>
+### About me
+- Name - Sudeep
+- I am a student
+- I don't mind PMs, so feel free to pm me on any of the platforms below
 
 ###
 
