@@ -36,6 +36,7 @@
 <br clear="both">
 
 
+<img src="https://raw.githubusercontent.com/gensis01/gensis01/output/snake.svg" alt="Snake animation" />
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
