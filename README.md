@@ -41,7 +41,5 @@
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-###
-
 ![:name](https://count.getloli.com/@:gensis01)
 </div>
