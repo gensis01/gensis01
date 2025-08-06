@@ -37,9 +37,10 @@
   
 ![](https://github-profile-trophy.vercel.app/?username=gensis01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<div align="centre">
+<div align="center">
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ![:name](https://count.getloli.com/@:gensis01)
+
 </div>
