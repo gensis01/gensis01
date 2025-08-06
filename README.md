@@ -32,11 +32,13 @@
 
 <img src="https://raw.githubusercontent.com/gensis01/gensis01/output/snake.svg" alt="Snake animation" />
 
-<div align="centre">
+
 ## 🏆 GitHub Trophies
   
 ![](https://github-profile-trophy.vercel.app/?username=gensis01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+<div align="centre">
+  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ###
