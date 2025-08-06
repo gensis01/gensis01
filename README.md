@@ -32,6 +32,7 @@
 
 <img src="https://raw.githubusercontent.com/gensis01/gensis01/output/snake.svg" alt="Snake animation" />
 
+<div align="centre">
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gensis01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -40,3 +41,4 @@
 ###
 
 ![:name](https://count.getloli.com/@:gensis01)
+</div>
