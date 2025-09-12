@@ -1,4 +1,4 @@
-![Ghost | ゴースト](https://i.imgur.com/HvPHaNm.jpg)
+![Ghost | ゴースト](https://raw.githubusercontent.com/gensis01/gensis01/refs/heads/main/Assets/mythical-dragon-beast-anime-style%20(1).jpg)
 ---
 ### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" height="20px"> I am Mufasa | ゴースト
 
